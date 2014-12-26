@@ -1,0 +1,9 @@
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\bin\Debug\BankAccountOperationApp.exe.config
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\bin\Debug\BankAccountOperationApp.exe
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\bin\Debug\BankAccountOperationApp.pdb
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\obj\Debug\BankAccountOperationApp.csprojResolveAssemblyReference.cache
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\obj\Debug\BankAccountOperationApp.BankAccountOperationUI.resources
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\obj\Debug\BankAccountOperationApp.Properties.Resources.resources
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\obj\Debug\BankAccountOperationApp.csproj.GenerateResource.Cache
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\obj\Debug\BankAccountOperationApp.exe
+H:\Taukir\BankAccountOperationApp\BankAccountOperationApp\obj\Debug\BankAccountOperationApp.pdb
